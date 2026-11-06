@@ -1,7 +1,7 @@
 # Milestone_4SF25CI050_3A
 1. Dataset Selection and Reading
 
-First, select a relevant dataset in CSV format based on your interest. Import the Pandas library and read the CSV file using pd.read_csv(). Display the first five rows using df.head() to check the dataset.
+    First, select a relevant dataset in CSV format based on your interest. Import the Pandas library and read the CSV file using pd.read_csv(). Display the first      five rows using df.head() to check the dataset.
 
 2. Data Understanding
 
